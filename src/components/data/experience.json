@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "role": "Cloud Engineer",
+    "organisation": "IBM",
+    "startDate": "Dec, 2023",
+    "endDate": "Jan, 2024",
+    "location": "Remote",
+   
+    "imageSrc": "company/IBM.png"
+  }
+  
+]
